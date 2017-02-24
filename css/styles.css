@@ -14,7 +14,7 @@ http://ladieslearningcode.com
 body {
   font-family: "Merriweather", serif;
   line-height: 1.5;
-  background: url(../images/background-4.jpg) no-repeat fixed 50%;
+  background: url(../images/background.jpg) no-repeat fixed 50%;
   background-size: cover;
   padding: 0;
   margin: 0;
@@ -189,8 +189,8 @@ header {
 }
 
 .contact .social {
-  width: 50%;
-  float: right;
+//  width: 50%;
+  float: left;
   text-align: right;
   font-size: 30px;
 }
@@ -200,10 +200,12 @@ header {
   color: inherit;
 }
 
+
+
 footer {
   clear: both;
   font-size: 12px;
-  margin-top: 50px;
+  margin-top: 200px;
 }
 
 
@@ -213,11 +215,7 @@ footer {
 
 /* for responsive media */
 
-@media (max-width: 940px) {
-  body {
-    color: green;
-  }
-} /* she likes to say this is a media query end to keep track */
+
 
 @media (max-width: 600px) {
   .profile-image {
