@@ -1,7 +1,10 @@
 # Webby 
 
-trying things on the web
+If you got a link to this repository, download the zip file, and open the index.html file please.  
+Thanks!
+Sarah
 
+Otherwise, this is a repository for finished (or mostly finished) web work.
 ```
 <html>
 
