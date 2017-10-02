@@ -1,0 +1,16 @@
+<?xml version='1.0'?>
+<merchantAddresses wssId="85707pVdaG" mId="6288078" name="Virtuosi Productions &quot;The Music Makers&quot;">
+  <commEmail>music@virtuosi.info</commEmail>
+  <merchantAddress master="true">
+    <street1>702-179 Metcalfe St.</street1>
+    <city>Ottawa</city>
+    <province>ON</province>
+    <postalCode>K2P 0W1</postalCode>
+    <mainPhone>613-729-8207</mainPhone>
+    <noLabel>1-800-660-2638</noLabel>
+    <emails>
+      <email service="New service" id="38633" address="music@virtuosi.info"/>
+      <email service="New service" id="39436" address="joann@virtuosi.info"/>
+    </emails>
+  </merchantAddress>
+</merchantAddresses>

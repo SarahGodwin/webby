@@ -1,0 +1,37 @@
+#main-menu li ul li {
+	border-bottom: 0;
+	position:static;
+}
+
+#main-menu li ul li a {
+	border-bottom: 0;
+	line-height:15px;
+	padding-top:4px;
+	padding-bottom:4px;
+}
+
+<!-- ie7 fix for clearfix -->
+.clearfix {
+	clear:both;	
+}
+
+<!-- for image widget -->
+.ie7_width_one {
+	width: 285px !important;
+}
+
+.ie7_width_two {
+	width: 605px !important;
+}
+
+.ie7_width_three {
+	width: 930px !important;
+}
+
+.wss-widget .wss-widget-text div {
+	display: inline-block;
+} 
+
+.wss-cta-text div {
+	display: inline-block;
+}

@@ -1,0 +1,37 @@
+/* IE6 fix */
+.wss-ul {
+	_margin: 0px;
+}
+
+/* main menu */
+#site-header {
+	z-index: 130;
+}
+
+#main-menu {
+	_bottom: -1px;
+}
+
+#main-menu li a.over,#main-menu li a:hover {
+	_background-image: none;
+}
+
+/* search */
+#search-form {
+	background: url(../images/bgsearch.gif) no-repeat top left;
+	border: 0;
+	padding: 5px 0 0 12px;
+}
+
+#search-form a {
+	display: block;
+	width: 17px;
+	height: 17px;
+	margin-top: 0px;
+	position: relative;
+	top: -2px
+}
+
+/* slider */
+.wss-slider-container {
+}

@@ -1,0 +1,86 @@
+/* This file contains attribute 'overrides' used specifically for IE version 7 */
+
+/* copyright text sometimes extends over right border in IE7 */
+#copyright {
+	padding-right: 10px;
+}
+
+/* news page */
+#news_list,.news_list {
+	overflow-x: hidden;
+	overflow-y: auto;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	width: 275px;	
+}
+
+#main-menu li ul li {
+	position:static;
+}
+
+.ad-gallery .ad-image-wrapper {
+	margin: 0 auto;
+	margin-bottom: 10px;
+	position: relative;
+	overflow: hidden;	
+}
+
+.ad-gallery,.ad-gallery * {
+	margin: 0;
+	position: relative;
+	padding: 0;
+}
+
+#agendlz .agendItems li.icontext {
+  width:62px;
+}
+
+#agendlz .agendItems li a {
+	display: block;
+	position:relative;
+}
+
+.white#agendlz .en.print_both {background-position:23px 3px;}
+.white#agendlz .en.bookmark_both {background-position:21px 3px;}
+.white#agendlz .en.email_both {background-position:23px 3px;}
+.white#agendlz .en.send_both {background-position:21px 3px;}
+.white#agendlz .en.share_both {background-position:23px 3px;}
+.gray#agendlz .en.print_both {background-position:23px 3px;}
+.gray#agendlz .en.bookmark_both {background-position:21px 3px;}
+.gray#agendlz .en.email_both {background-position:23px 3px;}
+.gray#agendlz .en.send_both {background-position:21px 3px;}
+.gray#agendlz .en.share_both {background-position:23px 3px;}
+.black#agendlz .en.print_both {background-position:23px 3px;}
+.black#agendlz .en.bookmark_both {background-position:21px 3px;}
+.black#agendlz .en.email_both {background-position:23px 3px;}
+.black#agendlz .en.send_both {background-position:21px 3px;}
+.black#agendlz .en.share_both {background-position:23px 3px;}
+
+.white#agendlz .fr.print_both {background-position:27px 3px;}
+.white#agendlz .fr.bookmark_both {background-position:26px 3px;}
+.white#agendlz .fr.email_both {background-position:26px 3px;}
+.white#agendlz .fr.send_both {background-position:26px 3px;}
+.white#agendlz .fr.share_both {background-position:25px 3px;}
+.gray#agendlz .fr.print_both {background-position:27px 3px;}
+.gray#agendlz .fr.bookmark_both {background-position:26px 3px;}
+.gray#agendlz .fr.email_both {background-position:26px 3px;}
+.gray#agendlz .fr.send_both {background-position:26px 3px;}
+.gray#agendlz .fr.share_both {background-position:25px 3px;}
+.black#agendlz .fr.print_both {background-position:27px 3px;}
+.black#agendlz .fr.bookmark_both {background-position:26px 3px;}
+.black#agendlz .fr.email_both {background-position:26px 3px;}
+.black#agendlz .fr.send_both {background-position:26px 3px;}
+.black#agendlz .fr.share_both {background-position:25px 3px;}
+
+/* menu style 2 */
+#menu_s2 li {
+	display: inline;
+}
+
+#menu_s2 li ul {
+	left:0;
+}
+
+#page-layout {
+	margin-top: -1px;
+}

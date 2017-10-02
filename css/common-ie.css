@@ -1,0 +1,14 @@
+#news_list,.news_list {
+	overflow-x: hidden;
+	overflow-y: auto;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+}
+
+#agendlz .agendItems li.icontext {
+  width:62px;
+}
+
+.curved_bottom:before,.curved_bottom:after  {width: 0%;}
+.curved_bottom_left:before,.curved_bottom_left:after  {width: 0%;}
+.curved_bottom_right:before,.curved_bottom_right:after  {width: 0%;}
